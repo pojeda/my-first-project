@@ -1,1 +1,3 @@
-my file in branch
+my file in branch 
+
+    * additional feature
